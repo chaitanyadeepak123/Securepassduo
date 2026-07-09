@@ -1,13 +1,3 @@
-//************************************************************
-// File Name   : kpm.c
-// Author      : Your Name
-// Device      : LPC2148 ARM7
-// Description : This file contains functions for interfacing
-//               a 4×4 Matrix Keypad with LPC2148.
-//               It supports key scanning and numeric input
-//               for RTC and other menu-driven applications.
-//************************************************************
-
 #include "defines.h"
 #include "lcd_defines.h"
 #include "delay.h"
